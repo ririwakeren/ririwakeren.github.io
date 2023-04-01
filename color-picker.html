@@ -1,0 +1,159 @@
+<html>
+<head>
+	<title>Colr Pickr</title>
+
+	<!-- Meta Tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Kang-Ismet.com">
+	<meta name="description" content="Tutorial Blog Kang Ismet">
+	
+		<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico">
+
+	<!-- Google Font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+
+	<!-- Plugins CSS -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" rel="stylesheet">
+ 
+  <!-- Theme CSS -->
+  <link rel="stylesheet" type="text/css" href="css/colr_pickr.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<style>
+	body {
+    background-color: #4c0082;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial;
+    color: #fff;
+}
+
+a {
+    font-family: Arial;
+    color: #fff !important;
+}
+
+#picker_launcher {
+    margin: 20px 0;
+    width: 267px;
+    height: 45px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+p {
+    font-family: Arial;
+    text-align: center;
+    color: #fff;
+}
+
+#desc {
+    font-size: 20px;
+}
+
+label {
+    display: block;
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.code {
+    margin: 0 0 10px 0;
+    padding: 0 10px;
+    width: 410px;
+    height: 35px;
+    background: #f5f5f5;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    overflow-x: scroll;
+}
+
+#find_more {
+    font-weight: 600;
+}
+</style>
+</head>
+<body>
+<div class="p-4">
+ <h1>
+    <a href="https://kang-ismet.com" target="_blank">Colr Pickr</a></h1>
+<button id="picker_launcher">Press</button>
+<p id="desc">
+    Colr Pickr,<br/> a vanilla JavaScript.
+</p>
+<div>
+
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+    <p id="find_more">Resource:</p>
+    <a href="https://r-tek.github.io/colr_pickr/" target="_blank" rel="nofollow">https://r-tek.github.io/colr_pickr/</a>
+
+</div>
+ </div>
+ 
+ <script src="js/colr_pickr.min.js"></script>
+ 
+<script>
+/**
+ * How to Set Up
+ */
+
+/**
+ * Create a new ColorPicker instance, which takes 2 parameters
+ *
+ * Parameter 1 [HTMLElement]: the button you want to launch the editor
+ * Parameter 2 [String] (Optional): A color
+ */
+
+const button = document.getElementById("picker_launcher");
+let picker = new ColorPicker(button, "#4c0082");
+
+/**
+ * What do you want to do after you have chosen the color?
+ *
+ * You can specify this in an EventListener, assigned to your button
+ */
+
+button.addEventListener("colorChange", function (event) {
+    // This will give you the color you selected
+    const color = event.detail.color.hexa;
+
+    // Change the color of the background
+    document.getElementsByTagName("BODY")[0].style.background = color;
+});
+
+/**
+ * IGNORE THIS FOR SETUP
+ * This is just some code specific to the codepen
+ * to open the picker when someone loads in
+ */
+document.getElementById("color_picker").style.display = "block";
+document.getElementById("color_picker").style.left =
+    document.getElementById("picker_launcher").getBoundingClientRect().left +
+    window.scrollX +
+    "px";
+document.getElementById("color_picker").style.top =
+    document.getElementById("picker_launcher").getBoundingClientRect().top +
+    window.scrollY +
+    document.getElementById("picker_launcher").offsetHeight +
+    2 +
+    "px";
+colorPickerComp.updateColorDisplays("#4c0082");
+document.getElementById("picker_launcher").click();
+</script>
+</body>
+</html>
