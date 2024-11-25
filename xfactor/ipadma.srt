@@ -1,21 +1,21 @@
 1
 00:00:26,583 --> 00:00:28,625
-<i>Seorang penulis pernah menulis,</i>
+<i>Seorang sastrawan pernah berkata,</i>
 
 2
 00:00:30,292 --> 00:00:33,750
-<i>"Semua yang kamu lihat
-bisa diubah menjadi dongeng."</i>
+<i>"Semua yang kalian lihat
+bisa menjadi dongeng."</i>
 
 3
 00:00:35,375 --> 00:00:39,958
-<i>"Dan kamu bisa bercerita
-tentang segala sesuatu yang telah kamu sentuh."</i>
+<i>"Dan kalian bisa mendapatkan cerita
+dari semua yang disentuh."</i>
 
 4
 00:00:42,000 --> 00:00:44,625
 <i>Sayangnya,
-cerita ini bukan dongeng.</i>
+cerita ini bukan sekedar dongeng.</i>
 
 5
 00:00:45,500 --> 00:00:47,792
@@ -23,33 +23,33 @@ cerita ini bukan dongeng.</i>
 
 6
 00:00:48,375 --> 00:00:50,667
-<i>Itu benar-benar terjadi padaku.</i>
+<i>Benar-benar terjadi padaku.</i>
 
 7
 00:00:51,792 --> 00:00:55,333
-<i>Dan Anda akan menjadi saksi cerita ini.</i>
+<i>Dan Kalian.. akan menjadi saksi kisah itu.</i>
 
 8
 00:02:14,000 --> 00:02:15,500
-Kamu tahu aku menginginkan tempat ini.
+Kan saya duluan yang mau parkir di sini.
 
 9
 00:02:15,583 --> 00:02:17,292
-Tapi itu tidak menghentikan Anda sama sekali.
+Kok maen serobot-serobot aja?
 
 10
-00:02:22,042 --> 00:02:26,417
-Maaf, tapi saya pikir tempat ini
-diperuntukkan bagi dosen.
+00:02:22,042 --> 00:02:25,417
+Maaf, mbak..
+ini parkiran dosen bukan ya?
 
 11
 00:02:28,208 --> 00:02:29,708
-Anda benar.
+Iya sih.
 
 12
-00:02:32,208 --> 00:02:34,917
-Oke, kamu bisa parkir di sini.
-Aku akan memarkir mobilku di tempat lain.
+00:02:32,008 --> 00:02:34,917
+Ya udah, mbak parkir di sini saja.
+Saya nyari tempat lain.
 
 13
 00:02:36,000 --> 00:02:37,250
@@ -57,15 +57,15 @@ Maksudku, kamu tidak perlu…
 
 14
 00:02:37,333 --> 00:02:39,250
-Tidak apa-apa. Anda tidak ingin terlambat.
+Tidak apa-apa. Nanti telat lho.
 
 15
 00:02:48,583 --> 00:02:50,208
-Salam sejahtera.
+Assalamu'alaikum.
 
 16
 00:02:50,292 --> 00:02:53,208
-Salam sejahtera juga menyertai Anda.
+Waa'alaikum salam.
 
 17
 00:02:59,583 --> 00:03:01,167
@@ -77,13 +77,13 @@ Selamat pagi, Pak.
 
 19
 00:03:03,000 --> 00:03:05,917
-Izinkan saya memperkenalkan diri.
+Ya.. perkenalkan
 Nama saya Aris Nasyid Baihaqi.
 
 20
 00:03:06,000 --> 00:03:08,000
-Saya pengganti sementara
-untuk pak Junaedi…
+Sementara waktu ini Saya
+akan menggantikan pak Junaedi…
 
 21
 00:03:08,083 --> 00:03:10,708
@@ -97,7 +97,7 @@ Pada beasiswa.
 23
 00:03:12,167 --> 00:03:16,125
 Sebelum kita memulai kelas,
-apakah kamu punya pertanyaan?
+barangkali ada pertanyaan?
 
 24
 00:03:16,208 --> 00:03:18,083
@@ -105,21 +105,21 @@ Pak!
 
 25
 00:03:18,167 --> 00:03:21,625
-Karena Anda akan mengajari kami
+Bapak kan ngajar
 Sosiologi Keluarga,
 
 26
 00:03:21,708 --> 00:03:23,542
-apakah kamu seorang pria keluarga?
+apakah Bapak sudah berkeluarga belum?
 
 27
 00:03:26,542 --> 00:03:28,083
-- Saya.
-- Anda?
+- Sudah.
+- Sudah?
 
 28
 00:03:28,167 --> 00:03:31,667
-Saya lahir dari pasangan suami istri.
+Saya lahir dari sepasang orang tua
 Mereka keluargaku juga, kan?
 
 29
@@ -132,11 +132,11 @@ Dia lucu.
 
 31
 00:03:35,250 --> 00:03:37,375
-Saat ini aku masih lajang…
+Saat ini aku masih singgle…
 
 32
 00:03:37,458 --> 00:03:38,500
-Dia lajang.
+Dia singgle.
 
 33
 00:03:38,583 --> 00:03:41,417
@@ -145,12 +145,12 @@ keluarga kakak perempuan saya di Ungaran.
 
 34
 00:03:41,500 --> 00:03:44,458
-Apakah ada orang lain yang punya pertanyaan lain?
+Kalau ada pertanyaan lain silahkan?
 
 35
 00:03:44,542 --> 00:03:51,542
-Jika belum, mari kita mulai dengan membuka
-buku teks Anda ke bab 20.
+Kalau ngga ada kita langsung mulai
+silahkan buka buku Sosiologi Keluarganya di bab 20.
 
 36
 00:03:55,333 --> 00:03:57,542
@@ -158,19 +158,19 @@ Permisi, Pak.
 
 37
 00:03:57,625 --> 00:04:00,417
-Saya ingin meminta maaf tentang kejadian sebelumnya hari ini.
+Pak saya mau minta maaf soal yang tadi.
 
 38
 00:04:00,500 --> 00:04:01,792
-Apa yang kamu bicarakan?
+Soal apa ya?
 
 39
 00:04:02,958 --> 00:04:05,083
-Tentang tempat parkir.
+Soal yang di parkiran.
 
 40
 00:04:05,167 --> 00:04:07,667
-Tentang itu?
+Oo di parkiran?
 Tidak apa-apa, ini bukan masalah besar.
 
 41
@@ -217,7 +217,7 @@ Manda saja?
 
 51
 00:04:33,708 --> 00:04:35,625
-"Astaga, wajah cantik itu!"
+"Manda-ngin bapak ga kelar-kelar"
 
 52
 00:04:40,958 --> 00:04:43,833
@@ -226,11 +226,11 @@ Nama saya Manda Cantika Saputri.
 
 53
 00:04:46,250 --> 00:04:47,375
-aku juga hanya bercanda.
+Saya juga bercanda.
 
 54
 00:04:48,833 --> 00:04:50,000
-Salam sejahtera.
+Assalamu'alaikum.
 
 55
 00:04:53,708 --> 00:04:55,167
@@ -252,11 +252,11 @@ Dalam perspektif itu…
 
 59
 00:05:11,875 --> 00:05:12,917
-Hai!
+Heeey!
 
 60
 00:05:13,000 --> 00:05:14,125
-Datang dan dapatkan!
+Ambil kalau bisa!
 
 61
 00:05:17,250 --> 00:05:19,250
@@ -269,15 +269,15 @@ Oh tidak.
 
 63
 00:05:24,625 --> 00:05:25,708
-Tunggu disini.
+Sebentar ya.
 
 64
 00:06:00,625 --> 00:06:02,833
-Kupikir aku sudah menyuruhmu menunggu di dalam.
+Tadi kan Saya bilang tunggu sebentar.
 
 65
 00:06:04,542 --> 00:06:05,625
-Berikan aku kuncinya.
+Mana kuncinya.
 
 66
 00:06:10,042 --> 00:06:11,167
@@ -285,15 +285,15 @@ Masuk.
 
 67
 00:07:03,500 --> 00:07:06,958
-Rani, bisakah kamu membukakan pintunya?
+De, bisakah kamu bukakan pintunya?
 
 68
 00:07:07,042 --> 00:07:08,708
-Aku tidak memakai jilbabku.
+Aku pa pake hijab.
 
 69
 00:07:12,417 --> 00:07:13,667
-Salam sejahtera.
+Assalamu'alaikum..
 
 70
 00:07:13,750 --> 00:07:15,000
@@ -305,39 +305,39 @@ Oke oke.
 
 72
 00:07:19,917 --> 00:07:21,250
-Salam sejahtera juga untukmu.
+Wa'alaikum salam.
 
 73
 00:07:25,667 --> 00:07:27,167
-Apakah kamu Aris?
+ini mas Aris ya?
 
 74
 00:07:28,250 --> 00:07:30,500
-Saya Rani. Adik perempuan Nisa.
+Saya Rani. Adinya Mba Nisa.
 
 75
 00:07:30,583 --> 00:07:33,125
-Tunggu, dia punya saudara perempuan?
+Tunggu, emang Nisa punya adek?
 
 76
-00:07:34,542 --> 00:07:36,917
-Cuma bercanda. Senang bertemu dengan Anda.
+00:07:33,542 --> 00:07:36,917
+Bercanda. Salam kenal.
 
 77
 00:07:41,708 --> 00:07:43,583
-Apakah adikmu ada di rumah?
+Mbak mu ada?
 
 78
 00:07:43,667 --> 00:07:45,500
-Dia, masuklah.
+Ada, yu masuk.
 
 79
 00:07:56,375 --> 00:07:57,458
-Salam sejahtera.
+Assalamu'alaikum..
 
 80
 00:07:57,542 --> 00:07:58,958
-Ya ampun!
+Astagfirullah!
 
 81
 00:07:59,958 --> 00:08:01,375
@@ -491,8 +491,8 @@ dulunya adalah satu.
 
 117
 00:09:54,000 --> 00:09:57,917
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 118
 00:09:58,000 --> 00:10:00,542
@@ -784,7 +784,7 @@ dari nenekmu.
 
 186
 00:14:13,750 --> 00:14:15,042
-Salam sejahtera, Bu.
+Assalamu'alaikum., Bu.
 
 187
 00:14:15,125 --> 00:14:16,917
@@ -875,7 +875,7 @@ Jangan khawatir tentang apa yang saya katakan sebelumnya.
 
 208
 00:15:33,917 --> 00:15:35,333
-Salam sejahtera.
+Assalamu'alaikum..
 
 209
 00:15:35,417 --> 00:15:36,958
@@ -883,11 +883,11 @@ Salam sejahtera.
 
 210
 00:15:41,333 --> 00:15:42,708
-Salam sejahtera.
+Assalamu'alaikum..
 
 211
 00:15:42,792 --> 00:15:44,708
-- Salam sejahtera juga, Ayah!
+- Assalamu'alaikum. juga, Ayah!
 - Kamu juga.
 
 212
@@ -1251,8 +1251,8 @@ Oke.
 
 296
 00:21:01,625 --> 00:21:03,917
-- Salam sejahtera.
-- Salam sejahtera.
+- Assalamu'alaikum..
+- Assalamu'alaikum..
 
 297
 00:21:05,292 --> 00:21:06,917
@@ -1459,8 +1459,8 @@ Oke, sampai jumpa lagi.
 
 345
 00:23:29,417 --> 00:23:31,250
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 346
 00:23:31,333 --> 00:23:33,292
@@ -1494,8 +1494,8 @@ di binatu.
 
 352
 00:23:46,375 --> 00:23:48,750
-- Salam sejahtera.
-- Salam sejahtera juga. Hati-hati di jalan!
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga. Hati-hati di jalan!
 
 353
 00:23:50,208 --> 00:23:53,708
@@ -2210,7 +2210,7 @@ Timah!
 
 522
 00:34:49,625 --> 00:34:51,000
-Salam sejahtera.
+Assalamu'alaikum..
 
 523
 00:35:26,042 --> 00:35:27,333
@@ -2222,11 +2222,11 @@ Oh tidak…
 
 525
 00:35:54,292 --> 00:35:55,583
-Salam sejahtera.
+Assalamu'alaikum..
 
 526
 00:35:55,667 --> 00:35:57,292
-Salam sejahtera juga untukmu.
+Assalamu'alaikum. juga untukmu.
 
 527
 00:35:57,375 --> 00:35:58,583
@@ -2283,13 +2283,13 @@ Oke.
 
 539
 00:36:26,875 --> 00:36:29,000
-- Salam sejahtera.
+- Assalamu'alaikum..
 - Kamu juga. Berkendara dengan aman.
 
 540
 00:36:30,125 --> 00:36:32,375
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 541
 00:36:32,458 --> 00:36:34,583
@@ -2692,8 +2692,8 @@ Sampai jumpa besok, Pak.
 
 636
 00:46:24,750 --> 00:46:27,417
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 637
 00:46:27,500 --> 00:46:31,375
@@ -3262,11 +3262,11 @@ Ya, Nisa.
 
 772
 00:56:49,542 --> 00:56:50,875
-Salam sejahtera.
+Assalamu'alaikum..
 
 773
 00:56:50,958 --> 00:56:52,625
-Salam sejahtera juga menyertai Anda.
+Assalamu'alaikum. juga menyertai Anda.
 
 774
 00:56:54,208 --> 00:56:55,583
@@ -3315,8 +3315,8 @@ Terima kasih.
 
 785
 00:58:04,833 --> 00:58:06,958
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 786
 00:58:07,042 --> 00:58:08,958
@@ -3367,7 +3367,7 @@ Kamu sangat nakal.
 
 797
 00:59:37,500 --> 00:59:39,125
-Salam sejahtera!
+Assalamu'alaikum.!
 
 798
 01:00:22,333 --> 01:00:24,750
@@ -3522,7 +3522,7 @@ Begitu banyak orang.
 
 833
 01:04:37,125 --> 01:04:40,250
-Saya akan. Terima kasih, sayang. Salam sejahtera.
+Saya akan. Terima kasih, sayang. Assalamu'alaikum..
 
 834
 01:04:41,208 --> 01:04:42,875
@@ -3967,11 +3967,11 @@ datang tanpa peringatan.
 
 938
 01:11:57,208 --> 01:11:58,750
-Salam sejahtera, sayang.
+Assalamu'alaikum., sayang.
 
 939
 01:11:58,833 --> 01:12:01,167
-<i>Salam sejahtera juga untukmu. Dimana kamu?</i>
+<i>Assalamu'alaikum. juga untukmu. Dimana kamu?</i>
 
 940
 01:12:02,250 --> 01:12:03,958
@@ -3993,7 +3993,7 @@ Mengapa kamu bertanya?
 
 944
 01:12:13,958 --> 01:12:15,250
-Salam sejahtera, sayang.
+Assalamu'alaikum., sayang.
 
 945
 01:12:17,792 --> 01:12:20,125
@@ -4761,8 +4761,8 @@ Oke.
 
 1124
 01:22:00,583 --> 01:22:02,583
-- Salam sejahtera.
-- Salam sejahtera juga.
+- Assalamu'alaikum..
+- Assalamu'alaikum. juga.
 
 1125
 01:22:04,708 --> 01:22:05,958
@@ -5122,7 +5122,7 @@ Astaga!
 
 1208
 01:27:54,708 --> 01:27:56,000
-Salam sejahtera.
+Assalamu'alaikum..
 
 1209
 01:28:04,333 --> 01:28:05,542
@@ -5477,11 +5477,11 @@ Kamu mau tinggal di mana, Nis?
 
 1293
 01:35:10,500 --> 01:35:12,458
-Salam sejahtera, Bu.
+Assalamu'alaikum., Bu.
 
 1294
 01:35:15,583 --> 01:35:17,167
-Salam sejahtera…
+Assalamu'alaikum.…
 
 1295
 01:35:17,250 --> 01:35:18,708
